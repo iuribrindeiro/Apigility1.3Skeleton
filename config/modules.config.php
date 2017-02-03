@@ -13,7 +13,6 @@ return array(
     'ZF\Apigility',
     'ZF\Apigility\Provider',
     'ZF\Apigility\Documentation',
-    'AssetManager',
     'ZF\ApiProblem',
     'ZF\Configuration',
     'ZF\OAuth2',
